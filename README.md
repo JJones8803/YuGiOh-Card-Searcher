@@ -4,7 +4,7 @@ A Python desktop application built with PyQt5 that interfaces with the YGOProDec
 
 ## 🚀 Features
 - **Relay Search Logic:** Finds the official card name first, then uses that exact string to scan all other card effects for support (e.g., searching "Ra" finds "Ancient Chant").
-- (card description/effect searching is currently bugged (help plz)
+- NOTE: (card description/effect searching is currently bugged (help plz)
 - **Duel Links Inspired Aesthetic:** High-contrast dark theme with gold and cyan accents.
 - **Dynamic Previews:** Displays official card art and detailed stats (ATK/DEF/Level/Type).
 - **Auto-Deduplication:** Ensures you don't see the same card twice, even if it matches multiple search criteria.
